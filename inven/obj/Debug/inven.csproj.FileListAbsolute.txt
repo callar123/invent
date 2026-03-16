@@ -1,0 +1,13 @@
+C:\Users\callar\Desktop\CALLAR\inven\bin\Debug\inven.exe.config
+C:\Users\callar\Desktop\CALLAR\inven\bin\Debug\inven.exe
+C:\Users\callar\Desktop\CALLAR\inven\bin\Debug\inven.pdb
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.csproj.AssemblyReference.cache
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.Form1.resources
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.Form2.resources
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.Properties.Resources.resources
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.csproj.GenerateResource.cache
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.csproj.CoreCompileInputs.cache
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.exe
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.pdb
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.exe.config
+C:\Users\callar\Desktop\CALLAR\inven\obj\Debug\inven.Form3.resources
